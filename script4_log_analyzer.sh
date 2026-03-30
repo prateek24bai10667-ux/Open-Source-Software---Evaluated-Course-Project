@@ -1,8 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 4: Log File Analyzer
-# Author: OM SINHA | Reg: 24BCY10257
-# Course: Open Source Software | Slot: F11
+# Author: PRATEEK PANDEY | Reg: 24BAI10667
+# Course: Open Source Software | Slot: E22
 # Description: Reads a log file line by line, counts keyword occurrences,
 #              and prints a summary with the last 5 matching lines.
 # Usage: bash script4_log_analyzer.sh [logfile] [keyword]
