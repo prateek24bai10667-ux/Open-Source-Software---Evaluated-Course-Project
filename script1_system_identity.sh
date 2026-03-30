@@ -7,8 +7,8 @@
 # =============================================================================
 
 # --- Variables ---
-STUDENT_NAME="Om Sinha"
-REG_NO="24BCY10257"
+STUDENT_NAME="Prateek Pandey"
+REG_NO="24BAI10667"
 SOFTWARE_CHOICE="Git"
 SOFTWARE_LICENSE="GNU General Public License v2 (GPL v2)"
 
