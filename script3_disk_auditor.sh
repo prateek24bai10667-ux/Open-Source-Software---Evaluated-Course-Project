@@ -1,8 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 3: Disk and Permission Auditor
-# Author: OM SINHA | Reg: 24BCY10257
-# Course: Open Source Software | Slot: F11
+# Author: Prateek Pandey | Reg: 24BAI10667
+# Course: Open Source Software | Slot: E22
 # Description: Loops through key system directories and reports permissions,
 #              owner, group, and disk usage. Also audits Git config files.
 # =============================================================================
