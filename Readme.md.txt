@@ -9,11 +9,11 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | OM SINHA |
-| **Registration Number** | [24BCY10257 |
-| **Slot** | F11 |
+| **Student Name** | Prateek Pandey |
+| **Registration Number** | [24BAI10667 |
+| **Slot** | E22 |
 | **Chosen Software** | Git (Version Control · GPL v2) |
-| **Date of Submission** | 29 03 2026 |
+| **Date of Submission** | 30 03 2026 |
 
 ---
 
