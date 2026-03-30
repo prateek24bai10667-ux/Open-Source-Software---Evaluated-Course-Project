@@ -1,8 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 5: Open Source Manifesto Generator
-# Author: OM SINHA | Reg: 24BCY10257
-# Course: Open Source Software | Slot: F11
+# Author: Prateek Pandey | Reg: 24BAI10667
+# Course: Open Source Software | Slot: E22
 # Description: Interactively asks the user 3 questions and generates a
 #              personalised open-source philosophy statement, saved to a file.
 #
